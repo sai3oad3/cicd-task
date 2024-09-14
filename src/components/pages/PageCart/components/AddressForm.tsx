@@ -44,7 +44,7 @@ const AddressForm = ({ initialValues, onBack, onSubmit }: AddressFormProps) => {
           <Grid item xs={12}>
             <Field
               component={TextField}
-              name="address"
+              name="addresss"
               label="Shipping address"
               fullWidth
               multiline
